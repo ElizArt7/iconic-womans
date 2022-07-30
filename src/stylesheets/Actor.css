@@ -1,0 +1,34 @@
+.container-actor {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.photo-actor {
+    height: 100%;
+    width: auto;
+
+}
+
+.container-text {
+    text-align: center;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.nombre-actor {
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+
+.description-actor {
+    font-size: 1.1rem;
+    text-align: justify;
+}
